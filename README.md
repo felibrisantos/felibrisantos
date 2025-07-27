@@ -2,16 +2,16 @@
 
 ## About Me
 
-I am a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. My goal is to build impactful and scalable software solutions that solve real-world problems.
+I am a passionate data scientist with a strong interest in leveraging data to uncover insights, solve complex problems, and drive decision-making. My goal is to build impactful and scalable data-driven solutions that address real-world challenges.
 
-- 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing.
-- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
+- 🌱 I’m currently learning R and advanced data science techniques.
+- 👯 I’m looking to collaborate on data science projects and open-source analytics tools.
 - 📫 How to reach me: [felibrisantos@gmail.com](mailto:felibrisantos@gmail.com)
 
 ## Skills
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Spring Boot
+- **Languages:** R, Python, SQL
+- **Frameworks/Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow
 - **Tools:** Git, VS Code
 - **Databases:** MySQL, PostgreSQL
 
