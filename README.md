@@ -53,10 +53,8 @@ A **financial management app** for tracking expenses, setting spending limits, a
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felibrisantos&show_icons=true&theme=radical&hide_border=true" alt="Felipe's GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felibrisantos&theme=radical&hide_border=true" alt="GitHub streak stats" width="49%"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felibrisantos)](https://github.com/felibrisantos/github-readme-stats)
+
 
 ---
 
