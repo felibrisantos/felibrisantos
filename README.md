@@ -32,12 +32,3 @@ ML/data science background — published a paper at ICMR using neural networks t
 
 ### Reach me
 [brigagao.dev](https://www.brigagao.dev) · [LinkedIn](https://linkedin.com/in/felibrisantos) · [email](felibrisantos@gmail.com)
-
----
-
-<a href="https://github.com/felibrisantos">
-  <img height="165" src="https://YOUR-PROJECT.vercel.app/api?username=felibrisantos&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/felibrisantos">
-  <img height="165" src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=felibrisantos&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" />
-</a>
